@@ -1,4 +1,5 @@
 # chat-app-bootcamp
+
 Our app for our coding bootcamp
 
 
@@ -13,6 +14,13 @@ Playgrounds:
 
 * https://codepen.io/pen/
 * https://jsfiddle.net
+
+Git and Github:
+
+* https://help.github.com/en
+* https://semver.org/
+* https://www.conventionalcommits.org/en/v1.0.0/
+
 
 Help:
 
